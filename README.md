@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://www.instagram.com/gl.lari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" </a>
-    <a href="mailto:gl.lariss4@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:gl.lariss4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/glariss4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://my-gitfolio.vercel.app/portfolio/glariss4" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%212529?style=for-the-badge&logo=gitfolio&logoColor=white" </a>
