@@ -1,10 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Larissa;Systems+Analyst;Software+Developer;Analysis+and+Systems+Development+Graduate;Welcome!)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=000000&size=28&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Larissa.;Systems+Analyst;Software+Developer;Analysis+and+Systems+Development+Graduate)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/gl.lari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" </a>
 <a href="mailto:gl.lariss4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/glariss4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> style="border-radius: 30px" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/glariss4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://my-gitfolio.vercel.app/portfolio/glariss4" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%212529?style=for-the-badge&logo=gitfolio&logoColor=white" </a> 
